@@ -1,6 +1,6 @@
 
 import React from 'react'
-import './Works.scss'
+import './Works.css'
 export default function Wors() {
   return (
     <div className='Works'>Wors</div>

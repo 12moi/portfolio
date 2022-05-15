@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app">
     <Topbar/>
-    <div className='sections'>
+    <div className='section'>
      <Intro/>
       <Portfolio/> 
      <Testimonials/>
