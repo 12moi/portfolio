@@ -1,5 +1,8 @@
 
 
-.testimonial{
-    background-color: lightcoral;
+.testimonials{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
