@@ -5,11 +5,11 @@
     margin-bottom:0%;
 }
 
-.left {
+.contact .left {
     flex: 1;
     overflow: hidden;
 }
-img {
+.contact .left  img {
     height: 100%;
   }
   .right {
@@ -44,7 +44,7 @@ img {
     width: 200px;
     height: 100px;
   } */
-button {
+form button {
     width: 150px;
     height: 30px;
     color: white;
@@ -57,6 +57,6 @@ button {
 button:focus{
     outline: none;
 }
-span {
+form span {
     color: green;
   }
