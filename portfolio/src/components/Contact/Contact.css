@@ -40,10 +40,10 @@ img {
     height: 200px;
     font-size: 14px;
 }
-form textarea:@include mobile {
+/* form textarea:@include mobile {
     width: 200px;
     height: 100px;
-  }
+  } */
 button {
     width: 150px;
     height: 30px;
