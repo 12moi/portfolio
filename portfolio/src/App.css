@@ -6,7 +6,7 @@
 .app .section{
     width: 100%;
     height:calc(100vh-70px);
-    background-color: grey;
+    /* background-color: grey; */
     position: relative;
     top:70px;
     scroll-snap-type: y mandatory;
