@@ -17,7 +17,7 @@ h1{
     justify-content: center;
 }
 .card{
-    width: 250px;
+      width: 250px;
       height: 70%;
       border-radius: 10px;
       box-shadow: 0px 0px 15px -8px black;
@@ -40,7 +40,7 @@ h1{
         align-items: center;
         justify-content: center;
 }
-.top img:right{
+/* .top img:right{
     height: 25px;
 }
   .top img:user{
@@ -52,7 +52,7 @@ h1{
   }
 .top img:left{
     height: 25px;
-}
+} */
 .center{
     padding: 10px;
         border-radius: 10px;

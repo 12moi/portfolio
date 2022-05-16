@@ -2,7 +2,7 @@
 import Intro from "./components/Intro/Intro" ;
 
 import Testimonials from "./components/Testimonials/Testimonial";
-import Works from "./components/works/Works";
+import Works from "./components/Works/Works";
 import Topbar from "./components/Topbar/Topbar";
 import Contact from "./components/Contact/Contact";
 import Portfolio from "./components/Portfolio/Portfolio";
