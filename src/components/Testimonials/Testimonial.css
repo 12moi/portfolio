@@ -26,10 +26,10 @@ h1{
       justify-content: space-around;
       padding: 20px;
       transition: all 1s ease;
-}
-.card:featured{
-    width: 300px;
-    height: 75%;
+ }
+.card .featured{
+    width: 30px;
+    height: 55%;
     margin: 0 30px;
 }
 .card:hover{
@@ -40,19 +40,19 @@ h1{
         align-items: center;
         justify-content: center;
 }
-/* .top img:right{
+.top img .right{
     height: 25px;
 }
-  .top img:user{
+  .top  .user{
     height: 60px;
     width: 60px;
     border-radius: 50%;
     object-fit: cover;
     margin: 0 30px;
   }
-.top img:left{
+.top img .left{
     height: 25px;
-} */
+}
 .center{
     padding: 10px;
         border-radius: 10px;
@@ -69,4 +69,4 @@ h1{
 }
 .bottom h4{
     color: rgb(121, 115, 115);
-}
+} 

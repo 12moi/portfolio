@@ -28,7 +28,9 @@ export default function Intro() {
           <h2>Hi There, I'm</h2>
           <h1>Moi Shadrack</h1>
           <h3>
-            Full Stack Developer <span ref={textRef}></span>
+
+          Full Stack Developer <span ref={textRef}></span>
+          {/* <title><strong> Front-end Developer | Full-stack Developer</strong></title> */}
           </h3>
         </div>
         <a href="#portfolio">
